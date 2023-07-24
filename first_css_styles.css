@@ -1,0 +1,32 @@
+h1 {
+    background: mistyrose;
+    font-weight: bold;
+    
+}
+.paragraph-1 {
+    background: wheat;
+    font-size: 19pt;
+    color: darkseagreen;
+    border: 7px solid paleturquoise;
+    border-radius: 7px;
+    margin-bottom: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.new_paragraph {
+    background: rgb(215, 234, 186);
+    border: 3px solid rosybrown;
+    border-radius: 7px;
+    font-style: italic;
+    font-size: 24px;
+    text-align: center;
+    text-shadow: 2px 6px 5px green;
+}
+div {
+    background: bisque;
+    color: darkorange;
+    font-size: 24pt;
+    border: 5px solid orangered;
+    border-radius: 5px;
+    font-family: 'Lucida Sans';
+}
